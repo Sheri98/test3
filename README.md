@@ -1,3 +1,3 @@
 # IDOR
 
-- [ ] look for every Id param
+- [X] look for every Id param
